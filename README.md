@@ -60,7 +60,7 @@ cd ~/local/share/check_mk/notifications/
 
 Download the Telegram notify script from Git repository
 ```
-git clone https://github.com/filipnet/checkmk-telegram-notify.git .
+git clone https://github.com/thanhlong99x/checkmk_telegram_notifications.git
 ```
 
 Give the script execution permissions
